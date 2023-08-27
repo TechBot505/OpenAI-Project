@@ -59,7 +59,7 @@ body {
   font-family: Arial, sans-serif;
 }
 .navbar {
-  background-color: #476547d9; /* Dark green background color */
+  background-color: #02e102d9; /* Dark green background color */
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -82,13 +82,11 @@ body {
   align-items: center;
 }
 
-.logo {
-  color: white;
-  font-size: 30px;
-  font-weight: bold;
-  font-family: 'Merienda';font-size: 22px;
-  text-decoration:dotted;
+.logo img{
+ 
   float:left;
+  height:50px;
+  width: 250px;
 }
 .brand {
   color: white;
@@ -142,7 +140,7 @@ position:absolute;
   align-items: center;
   background-color: #333;
   padding: 10px 20px;
-  background-color: #476547d9; /* Dark green background color */
+  background-color: #094b2bd9; /* Dark green background color */
 
 }
 
