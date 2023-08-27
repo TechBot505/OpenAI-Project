@@ -2,9 +2,12 @@ import React from 'react';
 
 export default function Bar() {
   return (
-    <div className="dabba">
-        <div id="logo">Sample</div>
-        <div id="naamkaran">Hello World!</div>
-    </div>
-  )
+    <div class="navbar">
+     <div className="logo">SUMMARIZR</div>
+
+  <div className="brand">IIT Indore<div className="small">Indian Institute Of Technology Indore</div></div>
+
+
+</div>
+   )
 }
